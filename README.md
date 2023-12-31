@@ -1,6 +1,6 @@
 Welcome to kubeFin: Navigating Finance Through Insightful Blogs,
 
-Video Link to Project Demonstration : https://drive.google.com/file/d/1p7mRe2PIMeSzz-ZIP5EYvnmvGEAJmLjD/view?usp=drive_link
+Video Link to Project Demonstration : https://drive.google.com/drive/folders/1jrzpQlDrkD-hGGJLaYYU00JCv0-cW99l?usp=drive_link
 
 kubeFin, a cutting-edge finance blog platform, has been meticulously developed using Flask, MongoDB, and Bootstrap to provide a comprehensive and visually appealing experience for financial enthusiasts and professionals alike. With its intuitive user interface, kubeFin ensures that navigating through its wealth of financial knowledge is not only effortless but also enjoyable.
 
